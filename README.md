@@ -4,7 +4,7 @@
 
 * [Planting a Tree](planting-a-tree)
 * [Java Variables: Mad Libs](java-variables-mad-libs)
-* Math Magic
+* [Math Magic](math-magic)
 * A Basic Calculator
 * Build A Droid
 * A Simple Car Loan Payment Calculator
