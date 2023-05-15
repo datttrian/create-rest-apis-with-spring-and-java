@@ -5,7 +5,7 @@
 * [Planting a Tree](planting-a-tree)
 * [Java Variables: Mad Libs](java-variables-mad-libs)
 * [Math Magic](math-magic)
-* A Basic Calculator
+* [A Basic Calculator](basic-calculator)
 * Build A Droid
 * A Simple Car Loan Payment Calculator
 * Continents and Cities
