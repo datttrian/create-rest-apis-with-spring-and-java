@@ -1,14 +1,16 @@
 public class Magic {
-	public static void main(String[] args) {
+  public static void main(String[] args) {
 
-		int myNumber = 99;
-    //myNumber is the original number
-    int stepOne = myNumber * myNumber;
-    int stepTwo = stepOne + myNumber;
-    int stepThree = stepTwo / myNumber;
-    int stepFour = stepThree + 17;
-    int stepFive = stepFour - myNumber;
-    int stepSix = stepFive / 6;
-    System. out. println(stepSix);
-	}
+    int myNumber = 99;
+    int magicNumber = myNumber;
+
+    magicNumber *= magicNumber; // Equivalent to: magicNumber = magicNumber * magicNumber;
+    magicNumber += myNumber;    // Equivalent to: magicNumber = magicNumber + myNumber;
+    magicNumber /= myNumber;    // Equivalent to: magicNumber = magicNumber / myNumber;
+    magicNumber += 17;          // Equivalent to: magicNumber = magicNumber + 17;
+    magicNumber -= myNumber;    // Equivalent to: magicNumber = magicNumber - myNumber;
+    magicNumber /= 6;           // Equivalent to: magicNumber = magicNumber / 6;
+
+    System.out.println(magicNumber);
+  }
 }

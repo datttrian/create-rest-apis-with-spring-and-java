@@ -6,7 +6,7 @@
 * [Java Variables: Mad Libs](java-variables-mad-libs)
 * [Math Magic](math-magic)
 * [A Basic Calculator](basic-calculator)
-* Build A Droid
+* [Build A Droid](build-a-droid)
 * A Simple Car Loan Payment Calculator
 * Continents and Cities
 * Desert Island Playlist

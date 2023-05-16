@@ -91,7 +91,7 @@ Have fun and experiment with different trees.
 
 Here are a couple we made:
 
-``` java
+```
  * ** * 
  ****** 
   ****  
@@ -100,7 +100,7 @@ Here are a couple we made:
 ~~~~~~~~~~
 ```
 
-``` java
+```
  ***** 
  ***** 
  ***** 
